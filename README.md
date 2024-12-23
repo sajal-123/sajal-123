@@ -1,6 +1,6 @@
 <img src="https://drive.google.com/uc?id=15bMx-OS97ShxcI0GsDfiQ9JgEBQIAL2F" alt="Profile" style="width: 150px; height: auto; border-radius: 50%;" /><h1 align="right">Hi 👋, I'm Sajal Garg</h1>
   
-  <h3 align="center" >I am a passionate software developer who started with a love for coding and problem-solving. After excelling at NIT Delhi, they built a successful career in full-stack development and machine learning, overcoming challenges and using their skills to make a positive impact on the world.</h3>
+  <h3 align="left" >I am a passionate software developer who started with a love for coding and problem-solving. After excelling at NIT Delhi, they built a successful career in full-stack development and machine learning, overcoming challenges and using their skills to make a positive impact on the world.</h3>
 
 
 # 💻 Tech Stack:
